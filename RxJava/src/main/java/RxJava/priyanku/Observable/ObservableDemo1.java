@@ -39,7 +39,7 @@ public class ObservableDemo1 {
 				ObservableDemo1::completeCallBack
 				);
 
-		logger.info("Processing completed");
+		logger.info("Processing completed"); 
 
 	}
 
